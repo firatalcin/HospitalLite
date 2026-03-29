@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HospitalLite.Api/HospitalLite.Api.csproj" />
+  <Project Path="HospitalLite.Business/HospitalLite.Business.csproj" />
+  <Project Path="HospitalLite.Core/HospitalLite.Core.csproj" />
+  <Project Path="HospitalLite.DataAccess/HospitalLite.DataAccess.csproj" />
+</Solution>
